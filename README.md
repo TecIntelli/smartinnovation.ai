@@ -1,2 +1,3 @@
 # smartinnovation.ai
-AI driven Smart Innovation
+
+Website about AI driven Smart Innovation
